@@ -1,0 +1,41 @@
+/* Vos customisations des classes de Bootstrap */
+.cp {
+	font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+.ce {
+	color:#e74c3c;
+}
+.ti {
+	color:#e74c3c;
+}
+.ti2 {
+	color:#e74c3c;
+}
+.ti3 {
+	color:#e74c3c;
+}
+.cp {
+	background-color: #f5f5f5;
+}
+.row {
+	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+footer {
+	background-color: #f74c3c;
+}
+
+
+
+/* Responsive Styling */
+
+@media (max-width: 1199px) {
+
+}
+
+@media (max-width: 991px) {
+
+}
+
+@media (max-width: 767px) {
+
+}

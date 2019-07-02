@@ -1,0 +1,50 @@
+/* Vos customisations des classes de Bootstrap */
+*{
+    font-family: 'Arvo', serif;
+}
+.titr{
+	color:#e74c3c;
+}
+.ti {
+	color:#e74c3c;
+}
+.ti2 {
+	color:#e74c3c;
+}
+.ti3 {
+	color:#e74c3c;
+}
+#get-involved {
+	background-color: #f5f5f5;
+}
+.row {
+	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+footer {
+	background-color: #f74c3c;
+}
+.back {
+	background-color: grey;
+}
+ {
+	color:red;
+}
+button {
+	background-color: red;
+	color: white;
+}
+
+
+/* Responsive Styling */
+
+@media (max-width: 1199px) {
+
+}
+
+@media (max-width: 991px) {
+
+}
+
+@media (max-width: 767px) {
+
+}
